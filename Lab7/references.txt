@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/5616895/how-do-i-use-prepared-statements-for-inserting-multiple-records-in-sqlite-using
+https://stackoverflow.com/questions/734689/sqlite-primary-key-on-multiple-columns
+

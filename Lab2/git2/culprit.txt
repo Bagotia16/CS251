@@ -1,0 +1,47 @@
+sourav
+
+hash_no: 2415f773dca6023705320e533f0262f93ff06316
+
+commands_used:
+
+git log --reflog
+  git log -p --reflog
+  git config --list
+   git config user.name "gaurang"
+   git config user.email gaurang@cse.iitb.ac.in
+   git config --list
+   git checkout 2b71b5d1e8ab5d8f42836133128de5b51d3400df -- .
+   ./main.sh
+   git config --list
+   git add .
+  git commit -m "Everything is fine again"
+  git log
+  git show 2415f773dca6023705320e533f0262f93ff06316
+ 
+   git config --list
+   rm -r *
+   ls
+   git add .
+   git commit -m "deleted all files"
+   git log
+   git checkout 154cecf0e5783400d9ebae6f493c2c4153b0efff -- .
+   git add .
+   git commit -m "Everything is fine again"
+   git log
+   ./main.sh
+   git config --global core.editor gedit
+   git rebase -i HEAD~4
+   git log
+   gedit main.sh
+   git add main.sh
+   git status
+   ./main.sh
+   chmod 777 main.sh
+   ./main.sh
+   git status
+   git add main.sh
+   git status
+   git log
+   git log -p --reflog
+  git commit -m "Everything is fine again"
+

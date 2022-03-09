@@ -1,0 +1,4 @@
+https://www.w3schools.com/python/python_file_handling.asp
+https://stackoverflow.com/questions/11540854/file-as-command-line-argument-for-argparse-error-message-if-argument-is-not-va
+
+
