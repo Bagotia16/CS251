@@ -1,0 +1,2 @@
+https://javarevisited.blogspot.com/2011/04/synchronization-in-java-synchronized.html#:~:text=Synchronized%20keyword%20in%20Java%20is,2.
+https://www.w3schools.com/java/ref_keyword_implements.asp
